@@ -4,6 +4,8 @@
   
 A simple terminal-based script to encrypt and decrypt messages, using the classic Caesar Cipher technique. 
 
+[Link to the project in Code in Place's showcase](https://codeinplace.stanford.edu/cip5/share/vJpgCyJbp1wpvZKM0bBq)
+
 
 ## How it works
 
