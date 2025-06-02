@@ -1,6 +1,7 @@
-# Encryption / Decryption Tool
+# Encryption / Decryption Tool (Code in Place 2025)
 
-This application was created as the final project for Stanford's Code in Place 2025.  
+*This application was created as the final project for Stanford's Code in Place 2025.*  
+  
 A simple terminal-based script to encrypt and decrypt messages, using the classic Caesar Cipher technique. 
 
 
