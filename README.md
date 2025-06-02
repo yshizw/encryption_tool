@@ -1,13 +1,15 @@
-# Encryption / Decryption Tool (Code in Place 2025)
+# Encryption / Decryption Tool (CiP 2025)
 
 *This application was created as the final project for Stanford's Code in Place 2025.*  
   
 A simple terminal-based script to encrypt and decrypt messages, using the classic Caesar Cipher technique. 
 
+[Link to the project in Code in Place's showcase](https://codeinplace.stanford.edu/cip5/share/vJpgCyJbp1wpvZKM0bBq)
+
 
 ## How it works
 
-- This script uses the classic Caesar Cipher, which works by shifting each letter of the message by a fixed number of positions in the alphabet.
+- This script uses the classic [Caesar Cipher](https://en.wikipedia.org/wiki/Caesar_cipher), which works by shifting each letter of the message by a fixed number of positions in the alphabet.
 - Supports (and preserves) both uppercase and lowercase letters.
 - Non-alphabetic characters are left unchanged.  
 
